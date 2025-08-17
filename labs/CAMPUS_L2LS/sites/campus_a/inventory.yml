@@ -27,3 +27,4 @@ CAMPUS_A:
       children:
         CAMPUS_A_SPINES:
         CAMPUS_A_LEAFS:
+git config --global user.name "FirstName LastName"
